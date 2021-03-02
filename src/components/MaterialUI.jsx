@@ -1,5 +1,5 @@
 import Button from '@material-ui/core/Button';
-import './materialUI.scoped.scss';
+// import './materialUI.scoped.scss';
 function MaterialUI() {
     return (
       <div className="parentCss">

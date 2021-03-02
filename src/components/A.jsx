@@ -1,4 +1,4 @@
-import './a.scoped.scss';
+// import './a.scoped.scss';
 function A() {
   return (
     <div>

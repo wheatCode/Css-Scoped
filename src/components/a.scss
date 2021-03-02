@@ -1,11 +1,8 @@
-.parentBox /deep/ {
+.box {
+    color: white;
     width: 100px;
     height: 100px;
     margin: 10px auto;
+    line-height: 100px;
     background-color: blue;
-    color: white;
-
-    .childBox {
-        color: red;
-    }
 }

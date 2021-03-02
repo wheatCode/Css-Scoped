@@ -1,4 +1,5 @@
-import './b.scoped.scss';
+// import './a.scss';
+// import './b.scoped.scss';
 
 function B() {
   return (

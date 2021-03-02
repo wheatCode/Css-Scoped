@@ -1,4 +1,5 @@
-import './parent.scoped.scss';
+// import './parent.scss';
+// import './parent.scoped.scss';
 import Child from './Child';
 function Parent() {
   return (
